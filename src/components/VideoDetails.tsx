@@ -12,8 +12,8 @@ const videoDetailsCss = css`
   height: 1080px;
 `;
 const buttonDetailsCss = css`
-  width: 48px;
-  height: 48px;
+  width: 100px;
+  height: 100px;
   position: absolute;
   right: 48px;
   top: 48px;
